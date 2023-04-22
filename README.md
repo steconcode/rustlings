@@ -1,3 +1,9 @@
+# rustlings 🦀🍴
+
+Below is the original README text. This repository is forked from the original rust-lang/rustlings repo and was used to complete the basics of getting to know rust. Updated portions of the codebase are under exercises.
+
+---
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
